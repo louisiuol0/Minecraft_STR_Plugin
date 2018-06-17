@@ -1,3 +1,11 @@
 name: Minecraft_STR_Plugin
 main: io.github.louisiuol0.minecraft_str_plugin.Minecraft_STR_Plugin
 version: 0.0.1
+author: louisiuol0
+
+commands:
+   newzombie:
+      description: This is a demo command.
+      usage: /<command>
+      permission: Minecraft_STR_Plugin.newhuman
+      permission-message: You don't have <permission>
